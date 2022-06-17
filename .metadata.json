@@ -1,0 +1,14 @@
+[
+  {
+    "package": "forecastHybrid",
+    "oncran": true
+  },
+  {
+    "package": "ggseas",
+    "oncran": true
+  },
+  {
+    "package": "Tcomp",
+    "oncran": true
+  }
+]
