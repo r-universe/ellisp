@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "Tcomp",
+    "package": "ggseas",
     "oncran": true
   },
   {
-    "package": "ggseas",
+    "package": "Tcomp",
     "oncran": true
   }
 ]
