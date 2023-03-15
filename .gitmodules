@@ -9,15 +9,15 @@
 	shallow = true
 	subdir = pkg
 	registered = true
-[submodule "ggseas"]
-	path = ggseas
-	url = https://github.com/ellisp/ggseas
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "Tcomp"]
 	path = Tcomp
 	url = https://github.com/ellisp/tcomp-r-package
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "ggseas"]
+	path = ggseas
+	url = https://github.com/ellisp/ggseas
 	shallow = true
 	subdir = pkg
 	registered = true
