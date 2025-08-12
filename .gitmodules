@@ -10,10 +10,6 @@
 	path = forecastHybrid
 	url = https://github.com/ellisp/forecasthybrid
 	subdir = pkg
-[submodule "ggseas"]
-	path = ggseas
-	url = https://github.com/ellisp/ggseas
-	subdir = pkg
 [submodule "nzelect"]
 	path = nzelect
 	url = https://github.com/cran/nzelect
